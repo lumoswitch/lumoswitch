@@ -8,7 +8,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 - 💻 &nbsp; Python | Java | C
@@ -26,5 +26,9 @@
   </a>
   <a href="mailto:sofrona.anna@gmail.com">
     <img align="left" alt="Anna Sofrona | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
-  </a>
+   </a>
+   <a href="https://lumoswitch.github.io/personal-page/">
+      <img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome">
+   </a>
+   
 </p>
