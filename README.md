@@ -9,8 +9,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🔧 &nbsp; Git | Markdown | Latex 
+- 🛢 &nbsp; MySQL
 - 💻 &nbsp; Python | Java | C
 - 🖥 &nbsp; Figma | Web design 
 
