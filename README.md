@@ -27,8 +27,5 @@
   <a href="mailto:sofrona.anna@gmail.com">
     <img align="left" alt="Anna Sofrona | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
    </a>
-   <a href="https://lumoswitch.github.io/personal-page/">
-      <img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome">
-   </a>
    
 </p>
