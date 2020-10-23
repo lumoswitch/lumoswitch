@@ -1,4 +1,4 @@
-##  Hey there! I'm Anna 👋
+##  👋 Hey there! I'm Anna 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
