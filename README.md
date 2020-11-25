@@ -21,7 +21,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anna-sofrona-186357a5/">
+<a href="https://www.linkedin.com/in/anna-sofrona">
    <img align="left" alt="Anna Sofrona | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
   <a href="mailto:sofrona.anna@gmail.com">
