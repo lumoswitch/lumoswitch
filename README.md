@@ -4,11 +4,11 @@
 
 - 🎓 &nbsp; BSc in Computer Science.
 - 🌱 &nbsp; Learning more about web technologies and backend development.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | ReactJS 
 - 🔧 &nbsp; Git | Markdown | Latex 
 - 🛢 &nbsp; MySQL
 - 💻 &nbsp; Python | Java | C
