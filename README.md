@@ -15,7 +15,7 @@
 - 🖥 &nbsp; Figma | Web design 
 
 <br/>
-[![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lumoswitch&hide=yacc,lex,tex,html&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lumoswitch&hide=yacc,lex,tex,html&layout=compact&theme=light)](https://github.com/lumoswitch/github-readme-stats)
 
 <br/>
 [![lumoswitch's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lumoswitch&show_icons=true)](https://github.com/lumoswitch)
