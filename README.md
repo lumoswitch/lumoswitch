@@ -17,6 +17,7 @@
 <br/>
 
 [![lumoswitch's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lumoswitch&show_icons=true)](https://github.com/lumoswitch)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MChatzakis&hide=yacc,lex,tex,html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
