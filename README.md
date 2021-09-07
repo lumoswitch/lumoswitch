@@ -8,11 +8,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | ReactJS 
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | ReactJS (entry level)
+- 🖥 &nbsp; Figma | Web design 
 - 🔧 &nbsp; Git | Markdown | Latex 
 - 🛢 &nbsp; MySQL
 - 💻 &nbsp; Python | Java | C
-- 🖥 &nbsp; Figma | Web design 
 
 <br/>
 
