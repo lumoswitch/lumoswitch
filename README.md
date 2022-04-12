@@ -8,10 +8,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🧑‍💻 &nbsp; ReactJS (entry level) | Flutter (entry level) | Firebase (entry level)
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript 
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | ReactJS (entry level) | Flutter (entry level) 
+- 🧑‍💻 &nbsp; NodeJS | Firebase (entry level)
 - 🖥 &nbsp; Figma | UI/UX design 
-- 🔧 &nbsp; Git | Markdown | Latex 
+- 🔧 &nbsp; Storybook | Git | Markdown | Latex 
 - 🛢 &nbsp; MySQL
 - 💻 &nbsp; Python | Java | C
 - 🗃️ &nbsp; WordPress | Strapi
