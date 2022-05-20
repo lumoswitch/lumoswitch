@@ -18,7 +18,7 @@
 
 <br/>
 
-[![Most used programming languages](https://lumoswitch-lumoswitch.vercel.app/api/top-langs/?username=lumoswitch&hide=yacc,lex,tex&layout=compact&theme=light)](https://github.com/lumoswitch/)
+[![Most used programming languages](https://lumoswitch.vercel.app/api/top-langs/?username=lumoswitch&hide=yacc,lex,tex&layout=compact&theme=light)](https://github.com/lumoswitch/)
 
 <!-- [![lumoswitch's GitHub Stats](https://lumoswitch.vercel.app/api?username=lumoswitch&show_icons=true)](https://github.com/lumoswitch) -->
 
