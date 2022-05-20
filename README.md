@@ -117,10 +117,11 @@
 </p>
 <hr>
 <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lumoswitch&show_icons=true&locale=en&layout=compact"
+        alt="lumoswitch" />
     <img src="https://github-readme-stats.vercel.app/api?username=lumoswitch&show_icons=true&locale=en"
     alt="lumoswitch" />
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=lumoswitch&" alt="lumoswitch" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lumoswitch&show_icons=true&locale=en&layout=compact"
-        alt="lumoswitch" />
+        
 </p>
 
