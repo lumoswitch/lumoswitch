@@ -11,10 +11,10 @@
  <a href="https://linkedin.com/in/anna-sofrona" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="anna-sofrona" height="40" width="40" />
+            alt="anna-sofrona" height="35" width="35" />
 </a>
 <a href="mailto:sofrona.anna@gmail.com">
-    <img align="left" alt="Anna Sofrona | Gmail" height="40" width="40" alt="anna-sofrona"
+    <img align="left" alt="Anna Sofrona | Gmail" height="35" width="35" alt="anna-sofrona"
         src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
 </a>
 
