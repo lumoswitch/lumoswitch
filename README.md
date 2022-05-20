@@ -4,7 +4,6 @@
 
 - 👨‍💻 All of my projects are available
 [here](https://github.com/lumoswitch?tab=repositories)
-
 - 🎓 I have a bachelor in **Computer Science**
 
 <h3 align="left">🤝🏼 Connect with me:</h3>
@@ -121,7 +120,8 @@
         alt="lumoswitch" />
     <img src="https://github-readme-stats.vercel.app/api?username=lumoswitch&show_icons=true&locale=en"
     alt="lumoswitch" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lumoswitch&" alt="lumoswitch" />
         
 </p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lumoswitch&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
