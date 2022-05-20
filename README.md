@@ -114,9 +114,9 @@ Other
 ## 💹 Stats:
 
 
-[![GitHub Streak](http://github-readme-stats.vercel.app/api/top-langs?username=lumoswitch&show_icons=true&locale=en&layout=compact)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-stats.vercel.app/api/top-langs?username=lumoswitch&show_icons=true&locale=en&layout=compact)]
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=lumoswitch&show_icons=true&locale=en)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=lumoswitch&show_icons=true&locale=en)]
 
 [![GitHub Streak](http://my-github-streak-stats.herokuapp.com?user=lumoswitch&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
