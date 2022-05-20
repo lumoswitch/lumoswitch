@@ -18,7 +18,7 @@
 
 <br/>
 
-[![Most used programming languages](https://github-readme-stats-three-nu-71.vercel.app/api/top-langs/?username=lumoswitch&hide=yacc,lex,tex&layout=compact&theme=light)](https://github.com/lumoswitch/)
+<!-- [![Most used programming languages](https://github-readme-stats-three-nu-71.vercel.app/api/top-langs/?username=lumoswitch&hide=yacc,lex,tex&layout=compact&theme=light)](https://github.com/lumoswitch/) -->
 
 <!-- [![lumoswitch's GitHub Stats](https://lumoswitch.vercel.app/api?username=lumoswitch&show_icons=true)](https://github.com/lumoswitch) -->
 
