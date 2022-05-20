@@ -18,8 +18,12 @@
         src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
 </a>
 
-## ⛏️ Languages and Tools:
+## ⛏️ Languages and Tools: 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lumoswitch&show_icons=true&locale=en&layout=compact"
+        alt="lumoswitch" />
+
+        
 Programming Languages
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -113,10 +117,7 @@ Other
 
 ## 💹 Stats:
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lumoswitch&show_icons=true&locale=en&layout=compact"
-        alt="lumoswitch" />
-    <img src="https://github-readme-stats.vercel.app/api?username=lumoswitch&show_icons=true&locale=en"
-    alt="lumoswitch" />
+ <img src="https://github-readme-stats.vercel.app/api?username=lumoswitch&show_icons=true&locale=en"/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lumoswitch&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
