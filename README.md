@@ -1,6 +1,4 @@
 <img src="github-header-image.png" width="100%" />
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lumoswitch&color=yellow" alt="Profile views" /> 
  
 - 🌱 I’m currently learning **Flutter, React**
  
