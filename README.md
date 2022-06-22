@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Anna
+<img src="github-header-image.png" width="100%" />
 
 - 🌱 I’m currently learning **Flutter, React**
 
