@@ -1,7 +1,8 @@
-<img src="github-header-image (1).png" width="100%" />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=birobirobiro&color=blueviolet" alt="Profile views" /> 
-- 🌱 I’m currently learning **Flutter, React**
+<img src="github-header-image.png" width="100%" />
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lumoswitch&color=#FFC107" alt="Profile views" /> 
+ 
+- 🌱 I’m currently learning **Flutter, React**
 - 👨‍💻 All of my projects are available
 [here](https://github.com/lumoswitch?tab=repositories)
 - 🎓 I have a bachelor in **Computer Science**
