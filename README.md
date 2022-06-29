@@ -1,5 +1,9 @@
 <img src="github-header-image.png" width="100%" />
  
+My name is Anna Sofrona and I'm a software engineer from Greece. 
+I have a BSc in Computer Science and I work in the IT sector for the past 2 years as a web developer. 
+Currently I'm a frontend developer at Multiapp solutions.
+
 - 🌱 I’m currently learning **Flutter, React**
  
 - 👨‍💻 All of my projects are available
