@@ -7,7 +7,7 @@
  
 - 🎓 I have a bachelor in **Computer Science**
 
-## 🤝🏼 Connect with me:
+## 🤝🏼 Come and say hello:
 
  <a href="https://linkedin.com/in/anna-sofrona" target="blank">
         <img align="center"
@@ -27,22 +27,22 @@ Programming Languages
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" />
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="typescript" width="40" height="40" />
-</a>
+</a> -->
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
         width="40" height="40" />
 </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
         height="40" />
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
+</a> -->
+<!-- <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
         width="40" height="40" />
-</a>
+</a> -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
         alt="python" width="40" height="40" />
@@ -75,25 +75,15 @@ Frontend Development
         alt="react" width="40" height="40" />
 </a>
 
-Mobile App Development
-
- <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"
-            height="40" />
-    </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
-    </a>
-
 Other
 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" />
     </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<!--     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a>
+    </a> -->
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
     </a>
