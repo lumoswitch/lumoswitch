@@ -6,7 +6,7 @@ I'm a **Software Engineer** with experience in building, maintaining, and suppor
 
 My work spans **backend development, automation, CI/CD, deployment tooling, databases, and production support**, with a particular interest in improving developer workflows and automating repetitive engineering tasks.
 
-Currently, I'm focusing on **Python tooling, automation, Docker, and developer-focused projects**.
+Currently, I'm experimenting with **React Native, Expo and Claude** in order to create my first mobile app.
 
 ---
 
