@@ -10,7 +10,31 @@ Currently, I'm focusing on **Python tooling, automation, Docker, and developer-f
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+✅ undo
+
+A lightweight, offline-first task manager built with React Native and Expo.
+
+undo helps you capture and manage tasks without relying on an account or cloud sync, with local storage keeping your tasks on your device.
+
+**Key features:**
+
+✅ Task management and organisation
+
+* 🔒 Offline-first experience with local-only storage
+* 🎙️ voice-to-text task entry
+* 💬 Natural-language task entry
+* 📱 Mobile app built with React Native and Expo
+* 🎨 Custom UI/UX designed in Figma
+* 🌐 Complementary landing page
+* 🤖 AI-assisted development using Claude
+
+Designed in Figma and developed with React Native, Expo and Claude-assisted workflows.
+Soon on Google Play.
+
+👉 [Explore the project](https://theundo.app/)
+🎨 [Checkout the design](https://www.figma.com/design/obJ9UlzWMGOj4oXV5pFlDq/undo---task-manager?node-id=414-51&p=f&t=Udunnsi6BXL9xbCy-0)
 
 ### 🔎 DeployChecker
 
